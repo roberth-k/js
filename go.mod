@@ -1,4 +1,4 @@
-module github.com/tetratom/js
+module github.com/roberth-k/js
 
 go 1.13
 
